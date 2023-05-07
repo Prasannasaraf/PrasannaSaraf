@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-Sure, here is the entire profile:
-
 Hi! I'm Prasanna Saraf, a senior consultant at Thoughtworks. I have over 8 years of experience in the software industry, and I'm proficient in a variety of programming languages and frameworks, including Scala, Spark, Golang, and Akka.
 
 I'm passionate about big data, distributed architecture, and artificial intelligence. I'm always looking for new challenges and opportunities to learn and grow.
